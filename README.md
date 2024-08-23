@@ -1,7 +1,6 @@
 # Surprise_Your_Brother
 Surprise Your Brother On Rakshabandhan
 
-# love-and-surprise-
 🌟 Project Showcase: A Special HTML, CSS &amp; JS Creation! 🌟Just finished this fun project where I used HTML, CSS, and JavaScript to create something special. It’s a digital message for happy rakshabandhan brother : "I Love You." ❤
 
 To replace name "SMIT SHAH" on 1st page  to your brother name go to "index.html " 
